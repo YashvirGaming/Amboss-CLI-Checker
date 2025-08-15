@@ -7,6 +7,9 @@
 </p>
 
 <p>A high-performance CLI checker for <strong>Amboss</strong>, built with <code>httpx</code>, multi-threading, and advanced proxy support (HTTP/HTTPS with <code>ip:port:user:pass</code> fallback to <code>ip:port</code>). Features live CPM counter, colorful CLI output, and capture printing/writing for <em>Hits</em> &amp; <em>Custom</em> accounts.</p>
+---
+
+[img]https://i.ibb.co/8n7MN7Xk/photo-2025-08-15-19-34-21.jpg[/img]
 
 <h2>ℹ️ Checker Info</h2>
 <ul>
