@@ -8,6 +8,20 @@
 
 <p>A high-performance CLI checker for <strong>Amboss</strong>, built with <code>httpx</code>, multi-threading, and advanced proxy support (HTTP/HTTPS with <code>ip:port:user:pass</code> fallback to <code>ip:port</code>). Features live CPM counter, colorful CLI output, and capture printing/writing for <em>Hits</em> &amp; <em>Custom</em> accounts.</p>
 
+<h2>ℹ️ Checker Info</h2>
+<ul>
+  <li><strong>Name:</strong> Amboss</li>
+  <li><strong>Proxy:</strong> ✅ | <span style="color:green;font-weight:bold;">Residential Only</span></li>
+  <li><strong>CPM:</strong> ~400</li>
+</ul>
+
+<h3>📝 Notes</h3>
+<ul>
+  <li><strong>CloudFront</strong> blocks bad IP ranges — use <em>Residential</em> proxies, not Datacenter.</li>
+  <li><code>Custom</code> = Free trial accounts</li>
+  <li><code>Hit</code> = Active subscription</li>
+</ul>
+
 <h2>✨ Features</h2>
 <ul>
   <li>Premium CLI design with ASCII Shadow font art and two-line colored subtitle.</li>
